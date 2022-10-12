@@ -46,7 +46,7 @@
             "American Bulldog": {
             "Description": "American Bulldogs are a well-balanced athletic dog that demonstrate great strength, endurance, agility, and a friendly attitude. Historically, they were bred to be a utility dog used for working the farm. The American Bulldog is a descendant of the English Bulldog.",
             "Characteristics": "loyal / self-confident",
-            "Height": "22-25 inches (males); 20-23 inches (females)",
+            "Height": "22-25 inches (males) / 20-23 inches (females)",
             "Weight": "75-100 pounds (males)/ 60-80 pounds (females)",
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/01/14144341/American-Bulldog-standing-in-three-quarter-view-400x267.jpg"
             },
@@ -200,8 +200,8 @@
             "Beagle": {
             "Description": "Not only is the Beagle an excellent hunting dog and loyal companion, it is also happy-go-lucky, funny, and'thanks to its pleading expression'cute. They were bred to hunt in packs, so they enjoy company and are generally easygoing. There are two Beagle varieties:",
             "Characteristics": "curious / friendly / merry",
-            "Height": "13 inches & under/13-15 inches/under 20 pounds (13 inches & under)/20-30 pounds (13-15 inches)",
-            "Weight": "",
+            "Height": "13-15 inches",
+            "Weight": "20-30 pounds",
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11123543/Beagles-standing-in-a-frosty-field-on-a-cold-morning-400x267.jpg"
             },
             "Bearded Collie": {
@@ -219,7 +219,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000826/Beauceron-On-White-03-400x267.jpg"
             },
             "Bedlington Terrier": {
-            "Description": "Graceful terriers in sheep's clothing, Bedlington Terriers, named for the English mining shire where they were first bred, are genial housemates, alert watchdogs, versatile athletes, and irresistibly cuddly TV-time companions. Bedlingtons are lithe, energetic Englishmen. The crisp, curly coat;",
+            "Description": "Graceful terriers in sheep's clothing, Bedlington Terriers, named for the English mining shire where they were first bred, are genial housemates, alert watchdogs, versatile athletes, and irresistibly cuddly TV-time companions. Bedlingtons are lithe, energetic Englishmen. The crisp, curly coat",
             "Characteristics": "loyal / charming / frollicking",
             "Height": "15-17.5 inches",
             "Weight": "17-23 pounds",
@@ -569,7 +569,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234523/Chow-Chow-On-White-01-400x267.jpg"
             },
             "Cirneco dell'Etna": {
-            "Description": "The sleek and sinewy Cirneco dell'Etna, the ancient coursing hound of Sicily, is an athletic hunter given to quick bursts of speed. As housedogs, Cirnechi are mild, low-maintenance companions cherished for their loyal and gentle nature. Standing under 20 inches, the Cirneco ('cheer-NEK-o';",
+            "Description": "The sleek and sinewy Cirneco dell'Etna, the ancient coursing hound of Sicily, is an athletic hunter given to quick bursts of speed. As housedogs, Cirnechi are mild, low-maintenance companions cherished for their loyal and gentle nature. Standing under 20 inches, the Cirneco ('cheer-NEK-o')",
             "Characteristics": "independent / friendly / affectionate",
             "Height": "18-19.5 inches (male)/16.5-18 inches (female)",
             "Weight": "22-26 pounds (male)/17-22 pounds (female)",
@@ -583,7 +583,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07135844/Clumber-Spaniel-On-White-011-400x267.jpg"
             },
             "Cocker Spaniel": {
-            "Description": "The merry and frolicsome Cocker Spaniel, with his big, dreamy eyes and impish personality, is one of the world's best-loved breeds. They were developed as hunting dogs, but Cockers gained their wide popularity as all-around companions. Those big, dark eyes;",
+            "Description": "The merry and frolicsome Cocker Spaniel, with his big, dreamy eyes and impish personality, is one of the world's best-loved breeds. They were developed as hunting dogs, but Cockers gained their wide popularity as all-around companions. Those big, dark eyes",
             "Characteristics": "smart / happy / gentle",
             "Height": "14.5-15.5 inches (male)/13.5-14.5 inches (female)",
             "Weight": "25-30 pounds (male)/20-25 pounds (female)",
@@ -821,7 +821,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00-400x267.jpg"
             },
             "German Shorthaired Pointer": {
-            "Description": "The versatile, medium-sized German Shorthaired Pointer is an enthusiastic gundog of all trades who thrives on vigorous exercise, positive training, and a lot of love. GSP people call their aristocratic companions the 'perfect pointer.\n\nMale German Shorthaired Pointers stand between 23 and 25 inches at the shoulder and weigh anywhere from 55 to 70 pounds; females run smaller.",
+            "Description": "The versatile, medium-sized German Shorthaired Pointer is an enthusiastic gundog of all trades who thrives on vigorous exercise, positive training, and a lot of love. GSP people call their aristocratic companions the 'perfect pointer.\n\nMale German Shorthaired Pointers stand between 23 and 25 inches at the shoulder and weigh anywhere from 55 to 70 pounds females run smaller.",
             "Characteristics": "friendly / smart / willing to please",
             "Height": "23-25 inches (male)/21-23 inches (female)",
             "Weight": "55-70 pounds (male)/45-60 pounds (female)",
@@ -982,7 +982,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27230925/Irish-Terriers-sitting-together-400x267.jpg"
             },
             "Irish Water Spaniel": {
-            "Description": "The tallest of the AKC's spaniels, the Irish Water Spaniel is instantly recognizable by its crisply curled coat and tapering 'rat tail.' Among the champion swimmers of dogdom, the alert and inquisitive IWS is hardworking and brave in the field, and playfully affectionate at home. This tallest of AKC spaniels, standing 21 to 24 inches at the shoulder and weighing 55 to 65 pounds, straddles the line between 'medium' and 'large' dogs on our scale of size. Among its distinguishing characteristics are a crisply curled, liver-colored, waterproof coat;",
+            "Description": "The tallest of the AKC's spaniels, the Irish Water Spaniel is instantly recognizable by its crisply curled coat and tapering 'rat tail.' Among the champion swimmers of dogdom, the alert and inquisitive IWS is hardworking and brave in the field, and playfully affectionate at home. This tallest of AKC spaniels, standing 21 to 24 inches at the shoulder and weighing 55 to 65 pounds, straddles the line between 'medium' and 'large' dogs on our scale of size. Among its distinguishing characteristics are a crisply curled, liver-colored, waterproof coat",
             "Characteristics": "playful / hardworking / brave",
             "Height": "22-24 inches (male)/21-23 inches (female)",
             "Weight": "55-68 pounds (male)/45-58 pounds (female)",
@@ -1010,7 +1010,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/23184645/Jagdterrier.4-400x267.jpg"
             },
             "Japanese Akitainu": {
-            "Description": "Descending from regional hunting dogs, the Japanese Akitainu was initially restored and preserved by dedicated breeders in the Akitainu Hozonkai (Akita Dog Preservation Society; AKIHO). The breed is known for its striking appearance and its physical and mental agility.",
+            "Description": "Descending from regional hunting dogs, the Japanese Akitainu was initially restored and preserved by dedicated breeders in the Akitainu Hozonkai (Akita Dog Preservation Society AKIHO). The breed is known for its striking appearance and its physical and mental agility.",
             "Characteristics": "dignified / alert / aloof",
             "Height": "25-27.5 inches (male)/22.5-25 inches (female)",
             "Weight": "65-75 pounds (male)/55-65 pounds (female)",
@@ -1094,7 +1094,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07133650/Kromfohrlander.6-400x267.jpg"
             },
             "Kuvasz": {
-            "Description": "The snow-white Kuvasz is Hungary's majestic guardian of flocks and companion of kings. A working dog of impressive size and strength, the imposing and thickly coated Kuvasz is a beautiful, smart, profoundly loyal, but challenging breed. Imposing, impressive, majestic, massive, mighty, pick the adjective you like best, they all apply to the Kuvasz (pronounced KOO-vahz;",
+            "Description": "The snow-white Kuvasz is Hungary's majestic guardian of flocks and companion of kings. A working dog of impressive size and strength, the imposing and thickly coated Kuvasz is a beautiful, smart, profoundly loyal, but challenging breed. Imposing, impressive, majestic, massive, mighty, pick the adjective you like best, they all apply to the Kuvasz (pronounced KOO-vahz)",
             "Characteristics": "loyal / fearless / sweet",
             "Height": "28-30 inches (male)/26-28 inches (female)",
             "Weight": "100-115 pounds (male)/70-90 pounds (female)",
@@ -1241,7 +1241,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/01/12194816/Nederlandse-Kooikerhondje-Field-400x267.jpg"
             },
             "Newfoundland": {
-            "Description": "The massive Newfoundland is a strikingly large, powerful working dog of heavy bone and dignified bearing. The sweet-tempered Newfie is a famously good companion and has earned a reputation as a patient and watchful 'nanny dog' for kids. A male Newfoundland can weigh up to 150 pounds and stand 28 inches at the shoulder;",
+            "Description": "The massive Newfoundland is a strikingly large, powerful working dog of heavy bone and dignified bearing. The sweet-tempered Newfie is a famously good companion and has earned a reputation as a patient and watchful 'nanny dog' for kids. A male Newfoundland can weigh up to 150 pounds and stand 28 inches at the shoulder",
             "Characteristics": "devoted / sweet / patient",
             "Height": "28 inches (average male)/26 inches (average female)",
             "Weight": "130-150 pounds (male)/100-120 pounds (female)",
@@ -1416,7 +1416,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/04/01104119/Toy-Poodle-on-White-02-400x267.jpg"
             },
             "Porcelaine": {
-            "Description": "The Porcelaine is elegant, energetic, and a fierce hunter; he is used for small game, driving it to waiting guns. He is very fond of his owners, family, friends and children and he loves to take part in all family activities.",
+            "Description": "The Porcelaine is elegant, energetic, and a fierce hunter he is used for small game, driving it to waiting guns. He is very fond of his owners, family, friends and children and he loves to take part in all family activities.",
             "Characteristics": "independent / energetic / powerful",
             "Height": "22-23 inches",
             "Weight": "55-62 pounds",
@@ -1479,7 +1479,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/08105915/Puli-sitting-in-a-field-400x267.jpg"
             },
             "Pumi": {
-            "Description": "A compact, nimble-footed herder of Hungarian origin, the Pumi is easily recognized by a corkscrew-curled coat, two-thirds erect ears, and distinctive whimsical expression. The breed is famed for its intelligence, agility, and boldness. The Pumi (POO-mee;",
+            "Description": "A compact, nimble-footed herder of Hungarian origin, the Pumi is easily recognized by a corkscrew-curled coat, two-thirds erect ears, and distinctive whimsical expression. The breed is famed for its intelligence, agility, and boldness. The Pumi (POO-mee",
             "Characteristics": "energetic / lively / ready to work",
             "Height": "16-18.5 inches (male)/15-17.5 inches (female)",
             "Weight": "27-29 pounds (male)/22-24 pounds (female)",
@@ -1542,7 +1542,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/07/19173802/Romanian-Mioritic-Shepherd-Dog-laying-in-a-field-in-a-mountainous-landscape-400x267.jpg"
             },
             "Rottweiler": {
-            "Description": "The Rottweiler is a robust working breed of great strength descended from the mastiffs of the Roman legions. A gentle playmate and protector within the family circle, the Rottie observes the outside world with a self-assured aloofness. A male Rottweiler will stand anywhere from 24 to 27 muscular inches at the shoulder;",
+            "Description": "The Rottweiler is a robust working breed of great strength descended from the mastiffs of the Roman legions. A gentle playmate and protector within the family circle, the Rottie observes the outside world with a self-assured aloofness. A male Rottweiler will stand anywhere from 24 to 27 muscular inches at the shoulder",
             "Characteristics": "loyal / loving / confident guardian",
             "Height": "24-27 inches (male)/22-25 inches (female)",
             "Weight": "95-135 pounds (male)/80-100 pounds (female)",
@@ -1647,7 +1647,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26114711/Shiba-Inu-standing-in-profile-outdoors-400x267.jpg"
             },
             "Shih Tzu": {
-            "Description": "That face! Those big dark eyes looking up at you with that sweet expression! It's no surprise that Shih Tzu owners have been so delighted with this little 'Lion Dog' for a thousand years. Where Shih Tzu go, giggles and mischief follow. Shi Tsu (pronounced in the West 'sheed-zoo' or 'sheet-su';",
+            "Description": "That face! Those big dark eyes looking up at you with that sweet expression! It's no surprise that Shih Tzu owners have been so delighted with this little 'Lion Dog' for a thousand years. Where Shih Tzu go, giggles and mischief follow. Shi Tsu (pronounced in the West 'sheed-zoo' or 'sheet-su'",
             "Characteristics": "playful / affectionate / outgoing",
             "Height": "9-10.5 inches",
             "Weight": "9-16 pounds",
@@ -1690,9 +1690,9 @@
             },
             "Slovakian Wirehaired Pointer": {
             "Description": "Slovakian Wirehaired Pointer is a dog of moderate strength, working type, but with nobleness in his lines. The basic color of the coat is called 'grey' and the hair is harsh (hard). He must be fit and able to work on the plain, in the woods and in the water, and especially to work after the shooting, searching and retrieving wounded game.",
-            "Characteristics": "24.5-26.5 in (male)/22.5-26 in (female)",
-            "Height": "50-65 pounds",
-            "Weight": "",
+            "Characteristics": "affectionate / friendly ",
+            "Height": "24.5-26.5 in (male)/22.5-26 in (female)",
+            "Weight": "50-65 pounds",
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/07/21154900/Slovakian-Wirehaired-Pointer-laying-down-outdoors-400x267.jpg"
             },
             "Slovensky Cuvac": {
@@ -1920,7 +1920,7 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30142244/West-Highland-White-Terrier-laying-down-in-the-grass-400x267.jpg"
             },
             "Wetterhoun": {
-            "Description": "The Wetterhoun, although originally bred for hunting otters, now make excellent companions, watchdogs, and can excel in a variety of sports due to their perseverant nature. The Wetterhoun is almost never seen apart from its owner; they enjoy their company as much as the owner enjoys theirs.",
+            "Description": "The Wetterhoun, although originally bred for hunting otters, now make excellent companions, watchdogs, and can excel in a variety of sports due to their perseverant nature. The Wetterhoun is almost never seen apart from its owner they enjoy their company as much as the owner enjoys theirs.",
             "Characteristics": "loyal / intelligent / good-natured",
             "Height": "23 inches (male)/21.5 inches (female)",
             "Weight": "50-75 pounds",
@@ -1934,9 +1934,9 @@
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223025/Whippet-On-White-01-400x267.jpg"
             },
             "Wire Fox Terrier": {
-            "Description": "The Wire Fox Terrier breed standard says they should be 'on the tip-toe of expectation at the slightest provocation.' Once a mainstay of traditional British foxhunts, today's Wire is a handsome and amusing companion and master show dog. The Wire Fox Terrier, 16 to 18 pounds of coiled energy is a sturdy, symmetrical, short-backed hunter with fire and intelligence shining in its dark, round eyes. The predominantly white coat is rough and wiry;",
+            "Description": "The Wire Fox Terrier breed standard says they should be 'on the tip-toe of expectation at the slightest provocation.' Once a mainstay of traditional British foxhunts, today's Wire is a handsome and amusing companion and master show dog. The Wire Fox Terrier, 16 to 18 pounds of coiled energy is a sturdy, symmetrical, short-backed hunter with fire and intelligence shining in its dark, round eyes. The predominantly white coat is rough and wiry",
             "Characteristics": "alert / confident / gregarious",
-            "Height": "15Ω inches",
+            "Height": "15 inches",
             "Weight": "18 pounds (male)",
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02163205/Wire-Fox-Terrier.1-400x267.jpg"
             },
@@ -1981,6 +1981,13 @@
             "Height": "7-8 inches",
             "Weight": "7 pounds",
             "Image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/01125312/Yorkshire-Terrier-standing-outdoors-on-a-sunny-day-400x267.jpg"
+            },
+            "": {
+                "Description": "",
+                "Characteristics": "",
+                "Height": "",
+                "Weight": "",
+                "Image": ""
             }
         }
     
