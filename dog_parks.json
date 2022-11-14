@@ -1,0 +1,422 @@
+{
+  "Adam Yauch Park Dog Run": {
+    "x_axis": 40.6920679,
+    "y_axis": -73.99888299999999,
+    "address": "27 State St, Brooklyn, NY 11201, USA"
+  },
+  "Andrew Haswell Green Dog Run": {
+    "x_axis": 40.76022260000001,
+    "y_axis": -73.9568766,
+    "address": "FDR Dr, New York, NY 10022, USA"
+  },
+  "Bellevue South Park Dog Run": {
+    "x_axis": 40.739959,
+    "y_axis": -73.9783297,
+    "address": "New York, NY 10016, USA"
+  },
+  "Bloomingdale Park Dog Run": {
+    "x_axis": 40.5334003,
+    "y_axis": -74.2105955,
+    "address": "Ramona Avenue &, Lenevar Ave, Staten Island, NY 10309, USA"
+  },
+  "Brooklyn Bridge Park Dog Run": {
+    "x_axis": 40.7039888,
+    "y_axis": -73.988511,
+    "address": "Adams St & Plymouth St, Brooklyn, NY 11201, USA"
+  },
+  "Canine Court Dog Run": {
+    "x_axis": 40.8988805,
+    "y_axis": -73.8952845,
+    "address": "Broadway &, W 252nd St, The Bronx, NY 10471, USA"
+  },
+  "Carl Schurz Park Large Dog Run": {
+    "x_axis": 40.7751302,
+    "y_axis": -73.9436973,
+    "address": "East 86th Street &, East End Ave, New York, NY 10028, USA"
+  },
+  "Carl Schurz Park Small Dog Run": {
+    "x_axis": 40.7751302,
+    "y_axis": -73.9436973,
+    "address": "East 86th Street &, East End Ave, New York, NY 10028, USA"
+  },
+  "Coleman Oval Park Dog Run": {
+    "x_axis": 40.7111792,
+    "y_axis": -73.9932397,
+    "address": "Coleman Playground, New York, NY 10002, USA"
+  },
+  "Conference House Park Dog Run": {
+    "x_axis": 40.5005834,
+    "y_axis": -74.2512474,
+    "address": "298 Satterlee St, Staten Island, NY 10307, USA"
+  },
+  "Cooper Park Dog Run": {
+    "x_axis": 40.715383,
+    "y_axis": -73.93594499999999,
+    "address": "331 Morgan Ave, Brooklyn, NY 11211, USA"
+  },
+  "Cooper Park Small Dog Run": {
+    "x_axis": 40.715946,
+    "y_axis": -73.937229,
+    "address": "Maspeth Ave, Brooklyn, NY 11211, USA"
+  },
+  "Corlears Hook Park Dog Run": {
+    "x_axis": 40.71166669999999,
+    "y_axis": -73.9797222,
+    "address": "397 FDR Dr, New York, NY 10002, USA"
+  },
+  "Cunningham Park Dog Run": {
+    "x_axis": 40.725919,
+    "y_axis": -73.7750973,
+    "address": "193rd St &, Radnor Rd, Fresh Meadows, NY 11366, USA"
+  },
+  "DeWitt Clinton Park Large Dog Run": {
+    "x_axis": 40.7680424,
+    "y_axis": -73.9942296,
+    "address": "11th Ave. &, W 54th St, New York, NY 10019, USA"
+  },
+  "DeWitt Clinton Park Small Dog Run": {
+    "x_axis": 40.7680424,
+    "y_axis": -73.9942296,
+    "address": "11th Ave. &, W 54th St, New York, NY 10019, USA"
+  },
+  "DiMattina Park Dog Run - North": {
+    "x_axis": 40.6795368,
+    "y_axis": -74.00306499999999,
+    "address": "167-177 Hamilton Ave, Brooklyn, NY 11231, USA"
+  },
+  "Dimattina Park Dog Run - South": {
+    "x_axis": 40.6795368,
+    "y_axis": -74.00306499999999,
+    "address": "167-177 Hamilton Ave, Brooklyn, NY 11231, USA"
+  },
+  "Dog Bone Run": {
+    "x_axis": 27.9121242,
+    "y_axis": -82.7890793,
+    "address": "100 5th Ave SW, Largo, FL 33770, USA"
+  },
+  "Dyker Beach Park Dog Run": {
+    "x_axis": 40.6091564,
+    "y_axis": -74.0199569,
+    "address": "334 Bay 8th St, Brooklyn, NY 11228, USA"
+  },
+  "East River Esplanade Waterfront Dog Run": {
+    "x_axis": 40.7621183,
+    "y_axis": -73.96254379999999,
+    "address": "304 E 62nd St, New York, NY 10065, USA"
+  },
+  "Ewen Park Dog Run": {
+    "x_axis": 40.8822833,
+    "y_axis": -73.91003309999999,
+    "address": "511 W 232nd St, The Bronx, NY 10463, USA"
+  },
+  "Fishbridge Garden Dog Run": {
+    "x_axis": 40.7092766,
+    "y_axis": -74.0015794,
+    "address": "Dover St, New York, NY 10038, USA"
+  },
+  "Fort Independence Playground Dog Run": {
+    "x_axis": 40.8815687,
+    "y_axis": -73.8958869,
+    "address": "Sedgwick Ave. &, W 238th St, The Bronx, NY 10463, USA"
+  },
+  "Fort Tryon Park Dog Run": {
+    "x_axis": 40.8625608,
+    "y_axis": -73.9312995,
+    "address": "Riverside, Dr To Broadway, New York, NY 10040, USA"
+  },
+  "Fox Playground Dog Run": {
+    "x_axis": 40.6325221,
+    "y_axis": -73.9240414,
+    "address": "Brooklyn, NY 11234, USA"
+  },
+  "Franz Sigel Park Dog Run": {
+    "x_axis": 40.823285,
+    "y_axis": -73.92554319999999,
+    "address": "Walton Ave & Gerard Ave., Grand Concourse bet. E. 151 St., E. 153 St. and, E 158th St, The Bronx, NY 10451, USA"
+  },
+  "Greenwood Dog Run E 5th St.": {
+    "x_axis": 40.6494214,
+    "y_axis": -73.976415,
+    "address": "140 E 5th St, Brooklyn, NY 11218, USA"
+  },
+  "Hackett Park Dog Run": {
+    "x_axis": 40.6969561,
+    "y_axis": -75.2409783,
+    "address": "Easton, PA 18045, USA"
+  },
+  "Herbert Von King Park Dog Run": {
+    "x_axis": 40.689612,
+    "y_axis": -73.946732,
+    "address": "670 Lafayette Ave, Brooklyn, NY 11216, USA"
+  },
+  "Highbridge Park Dog Run": {
+    "x_axis": 40.855988,
+    "y_axis": -73.9250173,
+    "address": "2682-2698 Amsterdam Ave, New York, NY 10040, USA"
+  },
+  "Hillside Park Dog Run": {
+    "x_axis": 40.701511,
+    "y_axis": -73.9943804,
+    "address": "Vine St, Brooklyn, NY 11201, USA"
+  },
+  "Homer's Run Dog Park": {
+    "x_axis": 40.871285,
+    "y_axis": -73.9216749,
+    "address": "Hill Park, New York, NY 10034, USA"
+  },
+  "Hunters Point South Park Dog Run": {
+    "x_axis": 40.7422936,
+    "y_axis": -73.9606831,
+    "address": "Center Blvd, Long Island City, NY 11101, USA"
+  },
+  "Ida Court Park": {
+    "x_axis": 40.5384576,
+    "y_axis": -74.18693139999999,
+    "address": "212 N Railroad St, Staten Island, NY 10312, USA"
+  },
+  "J. Hood Wright Park Dog Run": {
+    "x_axis": 40.8465496,
+    "y_axis": -73.9421303,
+    "address": "J, Hood Wright Park, New York, NY 10033, USA"
+  },
+  "Little Bay Park Dog Run": {
+    "x_axis": 40.7900679,
+    "y_axis": -73.7864275,
+    "address": "Cross Island Pkwy, Queens, NY 11357, USA"
+  },
+  "Little West Dog Run": {
+    "x_axis": 40.7074986,
+    "y_axis": -74.0162735,
+    "address": "70 Little W St, New York, NY 10280, USA"
+  },
+  "Lou Lodati Dog Park": {
+    "x_axis": 40.7472831,
+    "y_axis": -73.92178179999999,
+    "address": "41-15 Skillman Ave, Long Island City, NY 11104, USA"
+  },
+  "Madison Square Park Dog Run": {
+    "x_axis": 40.7421893,
+    "y_axis": -73.98799129999999,
+    "address": "11 Madison Ave, New York, NY 10010, USA"
+  },
+  "Manhattan Beach Dog Run (Oriental Boulevard)": {
+    "x_axis": 40.57787709999999,
+    "y_axis": -73.9416595,
+    "address": "Park Ave, Brooklyn, NY 11235, USA"
+  },
+  "Marcus Garvey Park Dog Run": {
+    "x_axis": 40.8044257,
+    "y_axis": -73.9437629,
+    "address": "6316, Mt Morris Park W, New York, NY 10027, USA"
+  },
+  "McCarren Park Dog Run": {
+    "x_axis": 40.7200908,
+    "y_axis": -73.9528866,
+    "address": "North 12th Street & Driggs Avenue &, Union Ave, Brooklyn, NY 11211, USA"
+  },
+  "McGolrick Park Dog Run": {
+    "x_axis": 40.7244763,
+    "y_axis": -73.9433497,
+    "address": "Russell Street &, Nassau Ave, Brooklyn, NY 11222, USA"
+  },
+  "Morningside Park Dog Run": {
+    "x_axis": 40.8044,
+    "y_axis": -73.95930609999999,
+    "address": "399 W 110th St, New York, NY 10025, USA"
+  },
+  "Murray Playground Dog Run": {
+    "x_axis": 40.7468739,
+    "y_axis": -73.9481656,
+    "address": "11-38, 11-98 45th Rd, Long Island City, NY 11101, USA"
+  },
+  "North End Dog Run": {
+    "x_axis": 40.7167736,
+    "y_axis": -74.014625,
+    "address": "Liberty Green, 300 North End Ave, New York, NY 10282, USA"
+  },
+  "Oneida Run": {
+    "x_axis": 40.899519,
+    "y_axis": -73.8731754,
+    "address": "Oneida Avenue &, Van Cortlandt Park E, The Bronx, NY 10470, USA"
+  },
+  "Overlook Dog Park / The Barking Lot": {
+    "x_axis": 40.0839163,
+    "y_axis": -76.3195403,
+    "address": "2215 Fruitville Pike, Lancaster, PA 17601, USA"
+  },
+  "Owl's Head Park Dog Run": {
+    "x_axis": 40.64004060000001,
+    "y_axis": -74.03521649999999,
+    "address": "68th Street &, Shore Rd, Brooklyn, NY 11220, USA"
+  },
+  "Pelham Bay Park Dog Run": {
+    "x_axis": 40.8667516,
+    "y_axis": -73.81011029999999,
+    "address": "Middletown Road & Stadium Avenue, The Bronx, NY 10465, USA"
+  },
+  "Peter Detmold Park Dog Run": {
+    "x_axis": 40.753123,
+    "y_axis": -73.96409,
+    "address": "454 E 51st St, New York, NY 10022, USA"
+  },
+  "Pier 6 Dog Run": {
+    "x_axis": 40.692729,
+    "y_axis": -74.00010569999999,
+    "address": "334 Furman St, Brooklyn, NY 11201, USA"
+  },
+  "Pier 84 Dog Run": {
+    "x_axis": 40.763494,
+    "y_axis": -74.0004227,
+    "address": "353 West St, New York, NY 10036, USA"
+  },
+  "Riverside Park Dog Run (105th St)": {
+    "x_axis": 40.8025139,
+    "y_axis": -73.97136549999999,
+    "address": "Riverside Dr &, W 105th St, New York, NY 10025, USA"
+  },
+  "Riverside Park Dog Run (87th St)": {
+    "x_axis": 40.7905171,
+    "y_axis": -73.9805695,
+    "address": "Hudson River Greenway, New York, NY 10024, USA"
+  },
+  "Riverside Park Dog Run (W. 142nd St.)": {
+    "x_axis": 40.8209817,
+    "y_axis": -73.9434877,
+    "address": "New York, NY, USA"
+  },
+  "Riverside Park Dog Run 72nd St": {
+    "x_axis": 40.8096051,
+    "y_axis": -73.967289,
+    "address": "New York, NY, USA"
+  },
+  "Riverside Park South Dog Run": {
+    "x_axis": 40.7808422,
+    "y_axis": -73.98719100000001,
+    "address": "Hudson River Greenway, New York, NY 10069, USA"
+  },
+  "Robert Moses Playground Dog Run": {
+    "x_axis": 40.7482824,
+    "y_axis": -73.969596,
+    "address": "East 42nd Street and, 1st Ave., New York, NY 10016, USA"
+  },
+  "Robin Kovary Run for Small Dogs": {
+    "x_axis": 40.7301939,
+    "y_axis": -73.9975749,
+    "address": "59 Washington Square S, New York, NY 10012, USA"
+  },
+  "Rockaway Freeway Dog Park": {
+    "x_axis": 40.591178,
+    "y_axis": -73.80890169999999,
+    "address": "83-02 Beach Channel Dr, Queens, NY 11693, USA"
+  },
+  "Rocky's Dog Run": {
+    "x_axis": 40.8410018,
+    "y_axis": -73.94510919999999,
+    "address": "Fort Washington Park, 899 Riverside Dr, New York, NY 10032, USA"
+  },
+  "Seton Park Dog Run": {
+    "x_axis": 40.885941,
+    "y_axis": -73.9165092,
+    "address": "Independence Ave, The Bronx, NY 10463, USA"
+  },
+  "Sherry Dog Run": {
+    "x_axis": 40.7412998,
+    "y_axis": -73.8988414,
+    "address": "Queens Blvd. &, 65th Pl, Woodside, NY 11377, USA"
+  },
+  "Silver Lake Dog Run": {
+    "x_axis": 40.6264393,
+    "y_axis": -74.09274979999999,
+    "address": "700 Victory Blvd, Staten Island, NY 10301, USA"
+  },
+  "Sirius Dog Run": {
+    "x_axis": 40.7120237,
+    "y_axis": -74.0169396,
+    "address": "385 South End Ave, New York, NY 10280, USA"
+  },
+  "Soundview Park Dog Run": {
+    "x_axis": 40.8190125,
+    "y_axis": -73.8775864,
+    "address": "Soundview Park Lafayette Ave &, Boynton Ave, The Bronx, NY 10473, USA"
+  },
+  "St. Mary's Park Dog Run": {
+    "x_axis": 40.8117387,
+    "y_axis": -73.9120243,
+    "address": "450 St Ann's Ave, The Bronx, NY 10455, USA"
+  },
+  "St. Nicholas Park Dog Run": {
+    "x_axis": 40.8182398,
+    "y_axis": -73.94859319999999,
+    "address": "Unnamed Road, New York, NY 10032, USA"
+  },
+  "Sternberg Park Dog Run": {
+    "x_axis": 40.706162,
+    "y_axis": -73.94667729999999,
+    "address": "73 Montrose Ave, Brooklyn, NY 11206, USA"
+  },
+  "Stuyvesant Square Dog Park": {
+    "x_axis": 40.73394649999999,
+    "y_axis": -73.9841048,
+    "address": "9, Rutherford Pl, New York, NY 10003, USA"
+  },
+  "Theodore Roosevelt Park Dog Run": {
+    "x_axis": 46.978965,
+    "y_axis": -103.5387091,
+    "address": "North Dakota, USA"
+  },
+  "Thomas Jefferson Park Dog Run": {
+    "x_axis": 40.7933578,
+    "y_axis": -73.9352341,
+    "address": "2180 1st Ave., New York, NY 10029, USA"
+  },
+  "Tompkins Square Park Dog Run": {
+    "x_axis": 40.72642949999999,
+    "y_axis": -73.9817841,
+    "address": "E 10th St, New York, NY 10009, USA"
+  },
+  "Tribeca Dog Park": {
+    "x_axis": 40.7162692,
+    "y_axis": -74.0086323,
+    "address": "New York, NY, USA"
+  },
+  "Tribeca Dog Run": {
+    "x_axis": 40.7161657,
+    "y_axis": -74.0120816,
+    "address": "114 Warren St, New York, NY 10007, USA"
+  },
+  "Underbridge Dog Run": {
+    "x_axis": 40.7338949,
+    "y_axis": -73.84520549999999,
+    "address": "64th Ave. &, Grand Central Pkwy, Forest Hills, NY 11375, USA"
+  },
+  "Union Square Park Dog Run": {
+    "x_axis": 40.7358633,
+    "y_axis": -73.9910835,
+    "address": "New York, NY 10003, USA"
+  },
+  "Veteran's Grove Dog Run": {
+    "x_axis": 40.7426611,
+    "y_axis": -73.8775703,
+    "address": "Judge St. &, Whitney Ave, Elmhurst, NY 11373, USA"
+  },
+  "Washington Park Dog Run": {
+    "x_axis": 40.6730055,
+    "y_axis": -73.98577449999999,
+    "address": "3 St., 4 St. bet. 4 Ave. and 5 Ave, Brooklyn, NY 11215, USA"
+  },
+  "Washington Square Park Dog Run": {
+    "x_axis": 40.7307044,
+    "y_axis": -73.9986304,
+    "address": "52 Washington Square S, New York, NY 10012, USA"
+  },
+  "Williamsbridge Oval Dog Run": {
+    "x_axis": 40.8776938,
+    "y_axis": -73.87771289999999,
+    "address": "3225 Reservoir Oval E, The Bronx, NY 10467, USA"
+  },
+  "Wolfe's Pond Park Dog Run": {
+    "x_axis": 40.519141,
+    "y_axis": -74.1902206,
+    "address": "420 Cornelia Ave, Staten Island, NY 10312, USA"
+  }
+}
